@@ -22,7 +22,7 @@ I’m interested in roles across:
 - Hybrid roles combining technology and business
 
 Links:
-- Portfolio: https://data-analyst-portfolio-website-phi.vercel.app
+- LinkedIn: https://www.linkedin.com/in/pranav-rai-6610b2255/
 - GitHub Projects: https://github.com/Pranavrai207
 
 Always learning, building, and improving through real projects.
