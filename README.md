@@ -1,4 +1,5 @@
 Hi, I’m Pranav 👋
+Actively building and improving real-world projects.
 
 I’m an engineering undergraduate with hands-on experience building full-stack applications, working with data, and designing scalable, user-focused software systems. My work spans web development, data analysis, and AI-powered tools, with a strong focus on practical problem-solving and real-world use cases.
 
@@ -14,7 +15,7 @@ I’m an engineering undergraduate with hands-on experience building full-stack 
 - **Jarvina Chatbot:** Conversational AI platform with structured responses  
 - **Path Finder Game:** Interactive visualization of pathfinding algorithms  
 
-### Roles I’m interested in
+### Open to roles in
 - Software / Full-Stack Engineering  
 - Data Analytics & Data-Driven Roles  
 - Sales Engineering, Solutions, or Customer-Facing Technical Roles  
